@@ -1,0 +1,6 @@
+langgraph
+langchain-core
+langchain-ollama
+langgraph-checkpoint-sqlite
+python-dotenv
+aiosqlite
